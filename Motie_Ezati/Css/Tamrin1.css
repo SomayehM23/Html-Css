@@ -1,0 +1,60 @@
+body{
+ background-color: #ccc;
+}
+
+.t1{
+  text-align: center;
+    background-color: black;
+    color: white;
+}
+.p1{
+
+}
+.continer{
+    width: 80%;
+    margin: auto;
+}
+.p1
+{
+    border: 3px darksalmon dotted;
+    padding:20px 20px ;
+    font-family: Arial,Altea;
+    font-style: italic;
+    line-height: 30px;
+}
+.My-from .MyL{
+    width: 100%;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+    height:25px;
+}
+.My-from .area{
+    height: 90px;
+
+}
+
+.Btn{
+    width: 100%;
+    border: snow;
+    border-radius: 10px;
+    height: 30px;
+    background-color: coral;
+}
+
+.Btn:hover{
+    background-color: brown;
+    color: white;
+}
+
+
+.Spa{
+    margin-bottom: 500px;
+}
+.Categ li{
+    list-style-image: url("../Images/tik.jpg");
+    text-decoration: none;
+}
+.Categ .a{
+    text-decoration: none;
+}
